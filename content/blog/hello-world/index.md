@@ -1,6 +1,7 @@
 ---
 title: Hello, Gatby.js
 date: "2017-07-12T17:12:33.962Z"
+description: "何か書けばいいのね"
 ---
 
 最近Twitterも始めて(今更すぎるが)、独自ドメインも取得したのでついでにBlogを始めようと思い
