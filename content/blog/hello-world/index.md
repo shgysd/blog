@@ -1,7 +1,7 @@
 ---
 title: Hello, Gatsby.js
 date: "2019-04-28"
-description: "ここに何も書かなかったから怒られた"
+description: "Gatsbyを触ってみての所感"
 ---
 
 最近Twitterを始めて(今更すぎるが)、独自ドメインも取得したのでついでにBlogを始めようと思い
