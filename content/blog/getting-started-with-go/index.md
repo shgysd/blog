@@ -6,3 +6,5 @@ description: "Goをはじめる"
 
 新しく言語を学ぶにあたり、せっかくなのでブログも更新することにした。  
 夏休みもくることなのでガッツリ勉強する時間を取りたいと思う。
+
+https://www.udemy.com/go-the-complete-developers-guide/
