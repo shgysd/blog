@@ -38,7 +38,7 @@ function Bio() {
               }}
             />
             <p>
-              Written by <a href={`https://github.com/shgysd`}>{author}</a>.
+              Written by <a href={`https://github.com/finalize`}>{author}</a>.
               <br />
               Love tech, dog, poker
             </p>

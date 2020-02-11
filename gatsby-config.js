@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Fail Forward`,
-    author: `Shogo`,
+    author: `finalize`,
     description: `A starter blog demonstrating what Gatsby can do.`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
